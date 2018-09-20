@@ -1,0 +1,8 @@
+.vs/
+sensor_processor.tlog/
+*.obj
+*.log
+*.ilk
+*.pdb
+*.idb
+
